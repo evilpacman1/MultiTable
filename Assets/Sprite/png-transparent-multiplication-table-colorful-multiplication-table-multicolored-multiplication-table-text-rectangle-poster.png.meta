@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: f9f57803e28b621429472caf975e9c47
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_0
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 629
+        width: 419
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3cf2159a313784b8e5ee790faad626
+      internalID: -426063351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 315
+        width: 162
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a663fe9e2fb64f241819015835654d1c
+      internalID: 26809166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 315
+        width: 161
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e26538040e03e54e9232e247cf9b0fc
+      internalID: -27123253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_3
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 315
+        width: 163
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e118c5ca1bf28043b91cffc8a9a9033
+      internalID: -1686500620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 315
+        width: 162
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c199cb1aadca1b459f03a2dbc3ce8ba
+      internalID: -163741179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_5
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 315
+        width: 162
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfef70c11f1d1445a20a50dc40c90f8
+      internalID: -1520587492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 27
+        width: 162
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be1ae54fdddd1d47a8c984a8d66af1d
+      internalID: -1094109659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 27
+        width: 163
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1be63283e21d7f49a79482b481cf5e9
+      internalID: 1965952998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 27
+        width: 162
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348074ba5bd3b884bb1dc5205e3a8dfd
+      internalID: 546421560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_9
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 27
+        width: 162
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a766759ae68d884baa7eff75541f6c2
+      internalID: -358457400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_10
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 27
+        width: 162
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092cbb557f2352f4db8cd2296640dc93
+      internalID: -685279768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 63ee764cdc701314689b7d886639f1e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_0: -426063351
+      png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_1: 26809166
+      png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_10: -685279768
+      png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_2: -27123253
+      png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_3: -1686500620
+      png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_4: -163741179
+      png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_5: -1520587492
+      png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_6: -1094109659
+      png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_7: 1965952998
+      png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_8: 546421560
+      png-transparent-multiplication-table-colorful-multiplication-table-multicolored-multiplication-table-text-rectangle-poster_9: -358457400
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
