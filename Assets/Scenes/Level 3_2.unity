@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   answerCube:
-  - {fileID: 210979018}
+  - {fileID: 0}
   _false: {fileID: 832206924}
   _excellent: {fileID: 250378753}
   falePlant: {fileID: 1947882439}
@@ -440,12 +440,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 73c37be2b8de87148b8e1a421be2277b, type: 3}
---- !u!1 &210979018 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4801589433508785576, guid: 9a5d1323e4657bf498263010c2654a21,
-    type: 3}
-  m_PrefabInstance: {fileID: 490794226}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &250378753
 GameObject:
   m_ObjectHideFlags: 0
@@ -1003,7 +997,7 @@ PrefabInstance:
     - target: {fileID: 4801589433508785576, guid: 9a5d1323e4657bf498263010c2654a21,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5979589812053237128, guid: 9a5d1323e4657bf498263010c2654a21,
         type: 3}
