@@ -108,7 +108,11 @@ public class TrueOrNot : MonoBehaviour
                 SceneManager.LoadScene("Level 10_1");
                 PlayerPrefs.SetInt(StartMenu.Save, 19);
                 break;
-               
+            case 20:
+                SceneManager.LoadScene("Level 1_1");
+                PlayerPrefs.SetInt(StartMenu.Save, 1);
+                break;
+
         }
             
 
