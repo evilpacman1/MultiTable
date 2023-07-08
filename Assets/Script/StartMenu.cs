@@ -49,104 +49,85 @@ public class StartMenu : MonoBehaviour
         switch (PlayerPrefs.GetInt(StartMenu.Save))
         {
             case 1:
+                
+                
                 SceneManager.LoadScene("Level 1_1");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 1);
                 break;
             case 2:
+               
                 SceneManager.LoadScene("Level 1_2");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 2);
                 break;
             case 3:
+                
                 SceneManager.LoadScene("Level 2_1");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 3);
                 break;
             case 4:
+              
                 SceneManager.LoadScene("Level 2_2");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 4);
                 break;
             case 5:
+               
                 SceneManager.LoadScene("Level 3_1");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 6);
                 break;
             case 6:
+               
                 SceneManager.LoadScene("Level 3_2");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 7);
                 break;
             case 7:
+               
                 SceneManager.LoadScene("Level 4_1");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 8);
                 break;
             case 8:
+                
                 SceneManager.LoadScene("Level 4_2");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 9);
                 break;
             case 9:
+             
                 SceneManager.LoadScene("Level 5_1");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 10);
                 break;
             case 10:
+               
                 SceneManager.LoadScene("Level 5_2");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 11);
                 break;
             case 11:
+                
                 SceneManager.LoadScene("Level 6_1");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 12);
                 break;
             case 12:
+              
                 SceneManager.LoadScene("Level 6_2");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 13);
                 break;
             case 13:
+               
                 SceneManager.LoadScene("Level 7_1");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 14);
                 break;
             case 14:
+              
                 SceneManager.LoadScene("Level 7_2");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 15);
                 break;
             case 15:
+                
                 SceneManager.LoadScene("Level 8_1");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 16);
                 break;
             case 16:
+               
                 SceneManager.LoadScene("Level 8_2");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 17);
                 break;
             case 17:
+              
                 SceneManager.LoadScene("Level 9_1");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 18);
                 break;
             case 18:
+                
                 SceneManager.LoadScene("Level 9_2");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 19);
                 break;
             case 19:
+              
                 SceneManager.LoadScene("Level 10_1");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 20);
                 break;
             case 20:
+               
                 SceneManager.LoadScene("Level 10_2");
-                PlayerPrefs.DeleteKey(StartMenu.Save);
-                PlayerPrefs.SetInt(StartMenu.Save, 21);
                 break;
 
 

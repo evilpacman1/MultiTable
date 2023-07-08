@@ -72,45 +72,44 @@ public class TrueOrNot : MonoBehaviour
         switch (PlayerPrefs.GetInt(StartMenu.Save))
             {
             case 2:
-                SceneManager.LoadScene("Level 2_1");
                 PlayerPrefs.SetInt(StartMenu.Save, 3);
+                SceneManager.LoadScene("Level 2_1");
                 break;
             case 4:
-                SceneManager.LoadScene("Level 3_1");
                 PlayerPrefs.SetInt(StartMenu.Save, 5);
+                SceneManager.LoadScene("Level 3_1");
                 break; 
             case 6:
-                SceneManager.LoadScene("Level 4_1");
-
                 PlayerPrefs.SetInt(StartMenu.Save, 7);
+                SceneManager.LoadScene("Level 4_1");
                 break; 
             case 8:
-                SceneManager.LoadScene("Level 5_1");
                 PlayerPrefs.SetInt(StartMenu.Save, 9);
+                SceneManager.LoadScene("Level 5_1");
                 break;
             case 10:
-                SceneManager.LoadScene("Level 6_1");
                 PlayerPrefs.SetInt(StartMenu.Save, 11);
+                SceneManager.LoadScene("Level 6_1");
                 break;
             case 12:
-                SceneManager.LoadScene("Level 7_1");
                 PlayerPrefs.SetInt(StartMenu.Save, 13);
+                SceneManager.LoadScene("Level 7_1");
                 break;
             case 14:
-                SceneManager.LoadScene("Level 8_1");
                 PlayerPrefs.SetInt(StartMenu.Save, 15);
+                SceneManager.LoadScene("Level 8_1");
                 break;
             case 16:
-                SceneManager.LoadScene("Level 9_1");
                 PlayerPrefs.SetInt(StartMenu.Save, 17);
+                SceneManager.LoadScene("Level 9_1");
                 break;
             case 18:
-                SceneManager.LoadScene("Level 10_1");
                 PlayerPrefs.SetInt(StartMenu.Save, 19);
+                SceneManager.LoadScene("Level 10_1");
                 break;
             case 20:
-                SceneManager.LoadScene("Level 1_1");
                 PlayerPrefs.SetInt(StartMenu.Save, 1);
+                SceneManager.LoadScene("Level 1_1");
                 break;
 
         }
